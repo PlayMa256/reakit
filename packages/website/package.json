@@ -22,7 +22,7 @@
     "react-codemirror2": "^5.1.0",
     "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0",
-    "react-icons": "^2.2.5",
+    "react-icons": "^3.2.2",
     "react-router-dom": "^4.2.2",
     "reakit": "^0.15.8",
     "reakit-theme-default": "^0.1.9",
